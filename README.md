@@ -40,4 +40,4 @@ MediaPipe vẽ keypoints và các đường nối
 
 OpenCV hiển thị bounding box, nhãn và độ tin cậy
 ## Thư viện sài 
-![Các thư viện](https://user-images.githubusercontent.com/85627308/image.png)# HETHONGNHANDIENVAPHANLOAITUTHEYOGA
+![Các thư viện](image.png)# HETHONGNHANDIENVAPHANLOAITUTHEYOGA
